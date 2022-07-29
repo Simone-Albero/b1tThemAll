@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227839996745",
+    "firebase_url": "https://b1tthemall-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "b1tthemall",
+    "storage_bucket": "b1tthemall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227839996745:android:3d6e65280c30f94cc62098",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.b1tThemAll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227839996745-jh8ivg8tlcqg1djetqadum4lsmn2oq14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ME_sAUFPmbB861oo-4VN-aOh-RmF3H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227839996745-jh8ivg8tlcqg1djetqadum4lsmn2oq14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
