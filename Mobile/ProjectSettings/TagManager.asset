@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Robot
+  - PoliceMan
+  - Enemy
+  - Ability
+  - Laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Sea
+  - Water
+  - UI
+  - Sidewalk
+  - Minimap
+  - Ability
+  - Mappa
+  - Robot
+  - GroundEnemy
+  - FlyingEnemy
+  - Bullet
+  - Obstacle
+  - Building
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Mappa
+    uniqueID: 1675614095
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
